@@ -1,0 +1,14 @@
+To install:
+    python -m pip install --user virtualenv
+
+To create a virtual environment with virtualenv:
+    virtualenv django1
+
+Activate the virtual environment with virtualenv:
+    source django1/Scripts/activate
+
+Deactivate the virtual environment with virtualenv:
+    deactivate
+
+Save pip installs in a requirements.txt
+    pip freeze > requirements.txt

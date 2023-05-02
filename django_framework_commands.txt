@@ -1,0 +1,11 @@
+Rodar a aplicação
+    python manage.py runserver
+
+Criar migrations
+    python manage.py makemigrations
+
+Aplicar migrations
+    python manage.py migrate
+
+Criar usuário admin
+    python manage.py createsuperuser
