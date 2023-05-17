@@ -1,3 +1,9 @@
+Criar Projeto Django
+    django-admin startproject django-framework-mysql-project .
+
+Criar App Django
+    django-admin startapp core
+
 Rodar a aplicação
     python manage.py runserver
 
